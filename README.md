@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/matroid-theory-article](https://github.com/prescientmoon/matroid-theory-article) 🚧
 # Matroid theory article
 
 This is the archive for a project about matroid theory I worked on (together with 3 other people) during the last module of my first year of studying mathematics.
